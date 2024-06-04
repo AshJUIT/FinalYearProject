@@ -9,7 +9,8 @@
 ##### Department of Information Technology
 ##### Faculty of Engineering and Technology
 ##### Jadavpur University, Salt Lake Campus
-##### 2020-2024
+
+### Abstract
 
 Sentiment analysis is a common task in natural language processing that aims to detect the polarity of a text document.
 In the simplest situation, we discriminate only between positive and negative sentiment, turning the task into a standard binary classification problem.
